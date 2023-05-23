@@ -1,0 +1,1 @@
+docker exec -it folha_php php $@
